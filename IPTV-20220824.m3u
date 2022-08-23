@@ -1,0 +1,111 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="NEWS",ALJAZEERA ARABIC
+http://210.210.155.35:80/qwr9ew/s/s16/01.m3u8
+#EXTINF:-1 group-title="NEWS",ALJAZEERA ENGLISH
+http://210.210.155.35:80/qwr9ew/s/s17/01.m3u8
+#EXTINF:-1 group-title="NEWS",BLOOMBERG
+http://210.210.155.35:80/dr9445/h/h03/01.m3u8
+#EXTINF:-1 group-title="NEWS",CNA
+http://210.210.155.35:80/uq2663/h/h29/01.m3u8
+#EXTINF:-1 group-title="NEWS",FRANCE 24
+http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1 group-title="NEWS",NHK WORLD
+http://210.210.155.35:80/uq2663/h/h23/01.m3u8
+#EXTINF:-1 group-title="NEWS",QURAN TV
+http://210.210.155.35:80/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 group-title="NEWS",SUNNA TV
+http://210.210.155.35:80/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 group-title="NEWS",PHOENIX INFONEWS
+http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
+#EXTINF:-1 group-title="LOKAL",ANTV
+http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 group-title="LOKAL",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="LOKAL",DAAI TV
+http://210.210.155.35:80/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1 group-title="LOKAL",ELSHINTA TV
+http://210.210.155.35:80/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 group-title="LOKAL",GLOBAL TV
+https://vcdn2.rctiplus.id/live/eds/GTV2022/live_fta/GTV2022-avc1_3500000=6-mp4a_96000=2.m3u8
+#EXTINF:-1 group-title="LOKAL",INDOSIAR
+http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 group-title="LOKAL",INEWS
+https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
+#EXTINF:-1 group-title="LOKAL",KOMPAS TV
+http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 group-title="LOKAL",METRO TV
+http://210.210.155.35:80/uq2663/h/h12/01.m3u8
+#EXTINF:-1 group-title="LOKAL",MNC TV
+https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
+#EXTINF:-1 group-title="LOKAL",MOJI (HD)
+http://210.210.155.35:80/qwr9ew/s/s41/01.m3u8
+#EXTINF:-1 group-title="LOKAL",NET
+http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 group-title="LOKAL",RCTI
+https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+#EXTINF:-1 group-title="LOKAL",RODJA TV
+http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
+#EXTINF:-1 group-title="LOKAL",RTV
+http://210.210.155.35:80/dr9445/h/h10/01.m3u8
+#EXTINF:-1 group-title="LOKAL",SCTV
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANS 7 (HD)
+http://210.210.155.35:80/uq2663/h/h11/01.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANS TV
+http://210.210.155.35:80/qwr9ew/s/s05/01.m3u8
+#EXTINF:-1 group-title="LOKAL",TVONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 group-title="LOKAL",TVRI NASIONAL
+http://210.210.155.35:80/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 group-title="LOKAL",ZEE BIOSKOP
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 group-title="KIDS",ANIPLUS
+http://210.210.155.35:80/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="KIDS",TOONMAX TV
+http://210.210.155.35:80/qwr9ew/s/s50/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",CCM
+http://210.210.155.35:80/qwr9ew/s/s31/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",CCTV 4
+http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",CELESTIAL MOVIE
+http://210.210.155.35:80/dr9445/h/h14/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",CGTN DOCUMENTARY
+http://210.210.155.35:80/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",CINEMA EUROPE
+http://210.210.155.35:80/uq2663/h/h18/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",CINEMA WORLD
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",EGG NETWORK
+http://210.210.155.35:80/uq2663/h/h22/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",FIGHT SPORT
+http://210.210.155.35:80/dr9445/h/h05/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",HITS
+http://210.210.155.35:80/dr9445/h/h37/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",K+
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",KIX
+http://210.210.155.35:80/dr9445/h/h07/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",MOTORVISION
+http://210.210.155.35:80/uq2663/h/h09/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",ONE
+http://210.210.155.35:80/uq2663/h/h143/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",QWEST
+http://210.210.155.35:80/uq2663/h/h94/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",ROCK ENTERTAINMENT
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",ROCK EXTREME
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",RTP
+http://210.210.155.35:80/qwr9ew/s/s38/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",STYLE (HD)
+http://210.210.155.35:80/dr9445/h/h121/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",TBN ASIA
+http://210.210.155.35:80/qwr9ew/s/s39/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",THRILL
+http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",TVN
+http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",TVN MOVIES
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
