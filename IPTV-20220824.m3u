@@ -25,24 +25,16 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 http://210.210.155.35:80/qwr9ew/s/s13/01.m3u8
 #EXTINF:-1 group-title="LOKAL",ELSHINTA TV
 http://210.210.155.35:80/qwr9ew/s/s10/01.m3u8
-#EXTINF:-1 group-title="LOKAL",GLOBAL TV
-https://vcdn2.rctiplus.id/live/eds/GTV2022/live_fta/GTV2022-avc1_3500000=6-mp4a_96000=2.m3u8
 #EXTINF:-1 group-title="LOKAL",INDOSIAR
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 group-title="LOKAL",INEWS
-https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
 #EXTINF:-1 group-title="LOKAL",KOMPAS TV
 http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 group-title="LOKAL",METRO TV
 http://210.210.155.35:80/uq2663/h/h12/01.m3u8
-#EXTINF:-1 group-title="LOKAL",MNC TV
-https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1 group-title="LOKAL",MOJI (HD)
 http://210.210.155.35:80/qwr9ew/s/s41/01.m3u8
 #EXTINF:-1 group-title="LOKAL",NET
 http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 group-title="LOKAL",RCTI
-https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF:-1 group-title="LOKAL",RODJA TV
 http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 #EXTINF:-1 group-title="LOKAL",RTV
