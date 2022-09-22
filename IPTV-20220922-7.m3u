@@ -1,132 +1,28 @@
 #EXTM3U
-#EXTINF:0,TVRI
-https://liveanevia.mncnow.id:443/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-#EXTINF:0,TVRI Nasional
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2446503011668def857b1c03bafabba51
-#EXTINF:0,Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:0,TRANS TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
-#EXTINF:0,Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-#EXTINF:0,TRANS 7 GP
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:0,MNC TV Vision+
-https://stream-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:0,MNC TV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
-#EXTINF:0,RCTI Vision+
-https://stream-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:0,RCTI
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
-#EXTINF:0,GTV Vision+
-https://stream-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#EXTINF:0,GTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8%7Creferer=https://m.rctiplus.com/
-#EXTINF:0,iNews Vision+
-https://stream-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:0,iNews
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8%7Creferer=https://m.rctiplus.com/
-#EXTINF:0,ANTV Vision+
-https://stream-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:0,Antv
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
-#EXTINF:0,RTV Vision+
-https://stream-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-#EXTINF:0,RTV V
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
-#EXTINF:0,RTV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
-#EXTINF:0,NET Vision+
-https://stream-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-#EXTINF:0,NETTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f0268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:0,KOMPAS TV Vision+
-https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-#EXTINF:0,KOMPAS TV
-https://video.jixie.media/live-test/kompastv.m3u8
-#EXTINF:0,Kompas TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
-#EXTINF:0,METRO TV 
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-#EXTINF:0,METRO TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:0,METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:0,TV One
-https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-#EXTINF:0,TV One
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
-#EXTINF:0,Moji O ch
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://tv.zonanime.my.id/vidio/ochannel.m3u8
-#EXTINF:0,SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
-#EXTINF:0,INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://tv.zonanime.my.id/vidio/indosiar.m3u8
-#EXTINF:0,INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://tvn.x10.mx/live/master.m3u8
-#EXTINF:0,INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
-#EXTINF:0,Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-#EXTINF:0,Garuda TV
-https://ms.digdaya.tv/live/digdayatv/chunklist.m3u8
-#EXTINF:0,Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:0,Useesport
-#EXTVLCOPT:http-user-agent=user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/49
-#EXTINF:0,Useesport2
-#EXTVLCOPT:http-user-agent=user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
-http://iptvid.my.id/hmm/useetl2.m3u8
-#EXTINF:0,LFCTV
-#EXTVLCOPT:http-user-agent=user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
-http://tvn.x10.mx/live/master-31.m3u8%20
-#EXTINF:0,Barca TV
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/48659.m3u8
-#EXTINF:0,Benfica TV
-https://ad2017.vhls.ru.com/cdn/premium380/index.m3u8%7Creferer=https://widevine.licenses4.me/&user-agent=REDLINECLIENT
-#EXTINF:0,Fenerbahce TV
-http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
-#EXTINF:0,galatasaray TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
-#EXTINF:0,Persija TV
-https://bravo.kugo.id/persijatv/udp.stream/playlist.m3u8
-#EXTINF:0,Porto Canal
-https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:0,Sporting TV
-http://45.92.69.72:8001/play/a02n
-#EXTINF:0,MU TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:0, Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
-#EXTINF:0,TVRI Sports HD
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8%20
-#EXTINF:0,Champions TV 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
-#EXTINF:0,Champions TV 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://tv.zonanime.my.id/vidio/championstv2.m3u8
-#EXTINF:0,Champions TV 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://tv.zonanime.my.id/vidio/championstv3.m3u8
-#EXTINF:0,Champions TV GOAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://tvn.x10.mx/live/master-10.m3u8
-#EXTINF:0,MNC Sports 1
-https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-#EXTINF:0,MNC Sports 2
-https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-#EXTINF:0,MNC Sports 3
-https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#EXTINF:-1 group-title="FTA",TRANS 7 (HD)
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
+#EXTINF:-1 group-title="FTA",TRANS TV (HD)
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
+
+#EXTINF:-1 group-title="FTA",CNN INDONESIA (HD)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 group-title="FTA",CNBC (HD)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="FTA",BERITA SATU (HD)
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="FTA",BERITA SATU WORLD (HD)
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 group-title="FTA",JAKARTA GLOBE NEWS (HD)
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+
+#EXTINF:-1 group-title="FTA",METRO TV (HD)
+https://stream-01.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSzLhQROSPtvx_EqizxBWnnoZJ0Z8HAD_aaSnQcdgHqpb)/dm/3/x75p70w/d/live-3.m3u8
+#EXTINF:-1 group-title="FTA",METRO GLOBAL NETWORK
+https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_b2692000_sleng.m3u8
+#EXTINF:-1 group-title="FTA",BN CHANNEL
+https://stream-03.sg1.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMCZb_gjkDdPGPizjXbkZpynxwkc7fnnnCxBXJOrmo1GO)/dm/3/x8dkqve/s/live-2.m3u8
+
+#EXTINF:-1 group-title="FTA",KOMPAS TV
+https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4Gzcz5LdgaQrpkRhrQTV4YiaS11hoqYqJ5wW7O40Qb7ji)/dm/3/x6pz4sa/d/live-4.m3u8
