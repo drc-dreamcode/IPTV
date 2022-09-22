@@ -27,7 +27,5 @@ https://stream-03.sg1.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMCZb_gjkDdPGPizjXb
 #EXTINF:-1 group-title="FTA",KOMPAS TV
 https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4Gzcz5LdgaQrpkRhrQTV4YiaS11hoqYqJ5wW7O40Qb7ji)/dm/3/x6pz4sa/d/live-4.m3u8
 
-#EXTINF:-1 group-title="FTA",INDOSIAR 1
-http://210.210.155.35/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 group-title="FTA",INDOSIAR 2
-http://210.210.155.35/qwr9ew/s/s04/index10.m3u8
+#EXTINF:-1 group-title="FTA",INDOSIAR
+https://list.iptvcat.com/my_list/s/45aa117e840b9fb94ffd0be69416cbdf.m3u8
