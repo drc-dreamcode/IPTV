@@ -1,0 +1,45 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="FTA",TRANS 7 (HD)
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
+#EXTINF:-1 group-title="FTA",TRANS TV (HD)
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
+
+#EXTINF:-1 group-title="FTA",CNN INDONESIA (HD)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 group-title="FTA",CNBC (HD)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="FTA",BERITA SATU (HD)
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="FTA",BERITA SATU WORLD (HD)
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 group-title="FTA",JAKARTA GLOBE NEWS (HD)
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+
+#EXTINF:-1 group-title="FTA",METRO TV (HD)
+https://stream-01.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSzLhQROSPtvx_EqizxBWnnoZJ0Z8HAD_aaSnQcdgHqpb)/dm/3/x75p70w/d/live-3.m3u8
+#EXTINF:-1 group-title="FTA",METRO GLOBAL NETWORK
+https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_b2692000_sleng.m3u8
+#EXTINF:-1 group-title="FTA",BN CHANNEL
+https://stream-03.sg1.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMCZb_gjkDdPGPizjXbkZpynxwkc7fnnnCxBXJOrmo1GO)/dm/3/x8dkqve/s/live-2.m3u8
+
+#EXTINF:-1 group-title="FTA",RCTI
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+
+#EXTINF:-1 group-title="FTA",GLOBAL TV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://d322b885qvsbxg.cloudfront.net/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
+
+#EXTINF:-1 group-title="FTA",MNC TV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
+
+#EXTINF:-1 group-title="FTA",INEWS
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021-avc1_800000=6-mp4a_96000=2.m3u8
