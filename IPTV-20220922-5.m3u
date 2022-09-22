@@ -24,22 +24,22 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_b2692000_sleng.m3u8
 #EXTINF:-1 group-title="FTA",BN CHANNEL
 https://stream-03.sg1.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMCZb_gjkDdPGPizjXbkZpynxwkc7fnnnCxBXJOrmo1GO)/dm/3/x8dkqve/s/live-2.m3u8
 
-#EXTINF:-1 group-title="FTA",RCTI
+#EXTINF:-1 group-title="FTA" status="online",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 
-#EXTINF:-1 group-title="FTA",GLOBAL TV
+#EXTINF:-1 group-title="FTA" status="online",GLOBAL TV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 https://d322b885qvsbxg.cloudfront.net/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 
-#EXTINF:-1 group-title="FTA",MNC TV
+#EXTINF:-1 group-title="FTA" status="online",MNC TV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 
-#EXTINF:-1 group-title="FTA",INEWS
+#EXTINF:-1 group-title="FTA" status="online",INEWS
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021-avc1_800000=6-mp4a_96000=2.m3u8
